@@ -1,0 +1,47 @@
+{
+  "serverMaxRevisionCounter": 13,
+  "sourceMembers": {
+    "Profile__Admin": {
+      "serverRevisionCounter": 11,
+      "lastRetrievedFromServer": 11,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "CustomApplication__Life_Cycle_Manager": {
+      "serverRevisionCounter": 10,
+      "lastRetrievedFromServer": 10,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "ContentAsset__Screenshot_20230305_at_10930_AM": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": 1,
+      "memberType": "ContentAsset",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Life_Cycle_Manager_UtilityBar": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "PermissionSet__LCM_Admin": {
+      "serverRevisionCounter": 12,
+      "lastRetrievedFromServer": 12,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "PermissionSet__LCM_Standard": {
+      "serverRevisionCounter": 13,
+      "lastRetrievedFromServer": 13,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "AppMenu__AppSwitcher": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "AppMenu",
+      "isNameObsolete": false
+    }
+  }
+}
